@@ -1,2 +1,2 @@
 # SnakeGameJS
-MyFirstJsGameSnake
+MyFirstJsGame
