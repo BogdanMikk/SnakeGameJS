@@ -16,7 +16,7 @@ var
             KEY_RIGHT = 39,
             KEY_DOWN = 40,
             /**
-             * Game objects
+             * Game objects s
              */
             canvas, /* HTMLCanvas */
             ctx, /* CanvasRenderingContext2d */
