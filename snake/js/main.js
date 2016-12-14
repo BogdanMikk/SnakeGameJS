@@ -1,6 +1,6 @@
 var
         /**
-         * Constats ы
+         * Constats
          */
          COLS = 26,
             ROWS = 26,
